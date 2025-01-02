@@ -13,7 +13,7 @@
 > **Ecem Öztürk** -  2022402288
 
 
-![USE](https://github.com/fbaakyildiz/IE423project/blob/main/control%20charts/Boğaziçi_Üniversitesi_Logo-2.png)
+![USE](https://github.com/fbaakyildiz/IE423project/blob/main/control%20charts/logo1)
 
 ***2. CONTENT*** 
  
