@@ -6,11 +6,11 @@
 > **Group1** 
 > **STATISTICAL PROCESS CONTROL** 
 > 
-> **Feriha Mesra Aktaş** -  
+> **Feriha Mesra Aktaş** -  2019404126
 > 
 > **Fatih Berker Akyıldız** - 2019402162
 >
-> **Ecem Öztürk** -  
+> **Ecem Öztürk** -  2022402288
  
 ***2. CONTENT*** 
  
