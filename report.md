@@ -134,11 +134,12 @@ In our analysis we conducted by dividing the match into 40- and 80-minute interv
 
 **APPENDIX**
 
-GenAI tool (OpenAI ChatGpt 4o model was used on debugging prosedure of our project codes.)
+GenAI tool (OpenAI ChatGpt 4o model was used on debugging and error fixing prosedures of our project codes.)
 
 **prompts:**
 
-Generally error messages were copied and pasted on chat and we asked to correct our code.
+Generally error messages like eoncding and plotting errors were copied and pasted on chat and we asked to correct our code.
+All interpretation and building & coding the algortihms tasks were made by individuals of our group.
 
 
 
