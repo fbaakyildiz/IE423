@@ -1,9 +1,9 @@
 >  
 > 
  
-> **IE423 - TERM PROJECT** 
+> **IE423 QUALITY ENGINEERING - TERM PROJECT** 
 > 
-> **Group1** 
+> **GROUP 1** 
 > **STATISTICAL PROCESS CONTROL** 
 > 
 > **Feriha Mesra Aktaş** -  2019404126
