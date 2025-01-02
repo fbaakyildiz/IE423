@@ -42,9 +42,7 @@ Ball possession observation will give insight into the match's outcome. An overa
 
 Home and away team are Atalanta and Hellas Verona, respectively. 
 •	Task (1): In the 15th minute of the match, the home team scored their third goal; the effect of the third goal is observed from the 25th minute onwards with a decrease in their ball possession. During the match, excluding the first 20 minutes, no red cards, yellow cards, or penalties are monitored. In the 29th minute, the 4th goal of the match is scored by the home team, whose effect is seen after 5 minutes in the 33rd minute by a slightly lower mean shift. In addition, the fifth goal of the home team, in the 35th minute, resulted in a significantly lower mean shift after 5 minutes. The home team begins with approximately 78% ball possession; then, it decreases to 70% at the end of the match. The away team’s ball possession increased from 25% to 32% throughout the game. Although the home team has a decreasing ball possession trend overall, they win the match. This is an exceptional result since the mean of the ball possession rate of the home team is nearly twice of the away team, with more than %70 ball possession rate.
-•	Away team 42. Minute 1st goal, the effect in home ball posession is observed after 5 minutes as upper mean shift. => bu yanlış ??  
-•	55. Minute lower mean shift cannot be explained with defined events. gereksz
-•	68. Dakikadaki mean shift (upper) artık 6 gol olmuş maçın bitmesinş bekliyorlar. Gereksiz 
+ 
 
 ![USE](https://github.com/fbaakyildiz/IE423project/blob/main/control%20charts/Screenshot%202025-01-02%20at%2016.32.52.png)
 ![USE](https://github.com/fbaakyildiz/IE423project/blob/main/control%20charts/Screenshot%202025-01-02%20at%2016.32.58.png)
